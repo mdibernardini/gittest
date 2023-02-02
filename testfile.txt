@@ -1,3 +1,4 @@
 Questo è un file di prova
 la versione è delle 8.50
 la versione è delle 9.22
+la versione delle 10.13
